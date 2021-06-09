@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["test"],{MGWU:function(n,w){}},[["MGWU","runtime"]]]);
